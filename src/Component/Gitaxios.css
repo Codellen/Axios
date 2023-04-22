@@ -1,0 +1,17 @@
+.user-form{
+    margin-bottom:2rem;
+    margin-top: 1rem;
+}
+.form{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.user-details{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+p{
+    font-weight: bold;
+}
